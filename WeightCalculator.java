@@ -11,7 +11,7 @@ public class WeightCalculator {
     WeightCalculator(double value, enum units) {
         unitsWeight = this.units;
         value = this.value;
-        
+
     }
 
 }
