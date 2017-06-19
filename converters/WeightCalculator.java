@@ -1,6 +1,5 @@
-/**
- * Created by Андрій on 19.06.2017.
- */
+package converters;
+
 public class WeightCalculator {
 
     enum UnitsWeight {KILOGRAM, GRAM, MILIGRAM, POUND, CARAT, OUNCE}
