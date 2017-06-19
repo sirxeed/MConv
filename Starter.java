@@ -11,6 +11,5 @@ public class Starter {
         double value = s.nextDouble();
 
 
-
     }
 }
